@@ -10,7 +10,6 @@ Package license: Apache-2.0
 Summary: Gumbo is an implementation of the HTML5 parsing algorithm implemented
 as a pure C99 library with no outside dependencies.
 
-
 Development: https://github.com/google/gumbo-parser
 
 Current build status
