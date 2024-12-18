@@ -19,9 +19,10 @@ requirements:
     - {{ stdlib("c") }}
     - {{ compiler('c') }}
     - {{ compiler('cxx') }}
+    - make      # [unix]
     - autoconf  # [unix]
     - libtool   # [unix]
-    - automake   # [unix]
+    - automake  # [unix]
     - cmake     # [win]
     - ninja     # [win]
 
